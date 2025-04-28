@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\DSA\\week5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1095494A-54E1-4C1C-ADE6-9AFB3F71102E}|stack\\stack.vcxproj|D:\\c\u002B\u002B\\DSA\\week5\\stack\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1095494A-54E1-4C1C-ADE6-9AFB3F71102E}|stack\\stack.vcxproj|solutionrelative:stack\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4CB876-DA62-41A7-850B-702774D224E5}|queue\\queue.vcxproj|D:\\c\u002B\u002B\\DSA\\week5\\queue\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB4CB876-DA62-41A7-850B-702774D224E5}|queue\\queue.vcxproj|solutionrelative:queue\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\DSA\\week5\\stack\\stack.cpp",
+              "RelativeDocumentMoniker": "stack\\stack.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\DSA\\week5\\stack\\stack.cpp",
+              "RelativeToolTip": "stack\\stack.cpp",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T13:18:09.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\DSA\\week5\\queue\\queue.cpp",
+              "RelativeDocumentMoniker": "queue\\queue.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\DSA\\week5\\queue\\queue.cpp",
+              "RelativeToolTip": "queue\\queue.cpp",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwIwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T13:16:58.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
