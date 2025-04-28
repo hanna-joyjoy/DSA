@@ -1,0 +1,39 @@
+# Ignore build files
+*.exe
+*.obj
+*.o
+*.out
+*.dll
+*.lib
+*.pdb
+*.ilk
+
+# Ignore Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled files and intermediate files
+*.ipch/
+*.pch
+*.aps
+*.ncb
+*.opt
+*.plg
+
+# Ignore backup and temporary files
+*~
+*.bak
+*.tmp
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+
+# Ignore report temp files
+~$*.docx
